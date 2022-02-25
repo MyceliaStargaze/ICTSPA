@@ -58,3 +58,5 @@ RadicalxChange (https://twitter.com/RadxChange): https://www.radicalxchange.org/
 suzuha (https://twitter.com/dystopiabreaker): https://mirror.xyz/suzuha.eth
 
 Crypto, Culture & Society (https://twitter.com/CryptoSocietyS1): https://society.mirror.xyz/
+
+totlsota (https://twitter.com/totlsota): https://mirror.xyz/totlsota.eth
