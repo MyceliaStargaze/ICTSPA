@@ -60,3 +60,5 @@ suzuha (https://twitter.com/dystopiabreaker): https://mirror.xyz/suzuha.eth
 Crypto, Culture & Society (https://twitter.com/CryptoSocietyS1): https://society.mirror.xyz/
 
 totlsota (https://twitter.com/totlsota): https://mirror.xyz/totlsota.eth
+
+Adam (https://twitter.com/adamscochran): https://medium.com/@adamscochran / https://adamcochran.substack.com/
