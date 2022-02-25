@@ -1,18 +1,30 @@
 # ICTSPA
 Collection of Writings by the Independent CryptoTwitter ShitPosting Association
 
-Zefram (https://twitter.com/boredGenius): https://zefram.xyz/posts/  \n
+Zefram (https://twitter.com/boredGenius): https://zefram.xyz/posts/
+
 Cobie (https://twitter.com/cobie): https://cobie.substack.com/
-Matti (https://twitter.com/mattigags): https://substack.com/profile/2568384-matti-  \n
-Ansem (https://twitter.com/blknoiz06): https://substack.com/profile/32859827-ansem \n
-Hyperbart (https://twitter.com/0xHyperbart): https://mirror.xyz/0x1F40f6cFe873536998e302BfEe85484e09e12E3B \n
-DailyApe (https://twitter.com/Darrenlautf): https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e \n
-0xfbifemboy (https://twitter.com/0xfbifemboy): https://fbifemboy.substack.com/ \n
-Vitalik (https://twitter.com/VitalikButerin): https://vitalik.ca/ \n
-anon753 (https://twitter.com/anon75374998): https://anon753.substack.com/ \n
-RainandCoffee (https://twitter.com/0xRainandCoffee): https://substack.com/profile/14239335-rainandcoffee \n
-Mycelia (https://twitter.com/myceliastargaze): https://mirror.xyz/ibansadowski.eth \n
-Derked (https://twitter.com/derked_eth): https://mirror.xyz/derked.eth \n
+
+Matti (https://twitter.com/mattigags): https://substack.com/profile/2568384-matti- 
+
+Ansem (https://twitter.com/blknoiz06): https://substack.com/profile/32859827-ansem
+
+Hyperbart (https://twitter.com/0xHyperbart): https://mirror.xyz/0x1F40f6cFe873536998e302BfEe85484e09e12E3B
+
+DailyApe (https://twitter.com/Darrenlautf): https://thedailyape.notion.site/thedailyape/The-Daily-Ape-c96c0b6727c0433a962e897ef43efb7e
+
+0xfbifemboy (https://twitter.com/0xfbifemboy): https://fbifemboy.substack.com/
+
+Vitalik (https://twitter.com/VitalikButerin): https://vitalik.ca/
+
+anon753 (https://twitter.com/anon75374998): https://anon753.substack.com/
+
+RainandCoffee (https://twitter.com/0xRainandCoffee): https://substack.com/profile/14239335-rainandcoffee
+
+Mycelia (https://twitter.com/myceliastargaze): https://mirror.xyz/ibansadowski.eth
+
+Derked (https://twitter.com/derked_eth): https://mirror.xyz/derked.eth
+
 Alkis (https://twitter.com/alcibiadesvazak): https://substack.com/profile/8172353-alkis-vazacopoulos \n
 knower (https://twitter.com/knowerofmarkets): https://theknower.substack.com/ \n
 0xcarnation (https://twitter.com/0xcarnation): https://mirror.xyz/0xcarnation.eth \n
