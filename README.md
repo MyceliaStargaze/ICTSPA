@@ -25,19 +25,33 @@ Mycelia (https://twitter.com/myceliastargaze): https://mirror.xyz/ibansadowski.e
 
 Derked (https://twitter.com/derked_eth): https://mirror.xyz/derked.eth
 
-Alkis (https://twitter.com/alcibiadesvazak): https://substack.com/profile/8172353-alkis-vazacopoulos \n
-knower (https://twitter.com/knowerofmarkets): https://theknower.substack.com/ \n
-0xcarnation (https://twitter.com/0xcarnation): https://mirror.xyz/0xcarnation.eth \n
-Kitsune (https://twitter.com/0x_kitsune): https://mirror.xyz/0x4E6bB781e60788772003883414b93b62E9007570 \n
-Eto (https://twitter.com/etoeth): https://medium.com/@0xEto \n
-King (https://twitter.com/0xgodking): https://medium.com/@0xgodking \n
-0xJustice (https://twitter.com/singularityhack): https://mirror.xyz/0xjustice.eth \n
-0xkydo (https://twitter.com/0xkydo): https://kydo.substack.com/ \n
-0xKatsuragi (https://twitter.com/0xKatsuragi): https://mirror.xyz/unitzero.eth \n
-Deor (https://twitter.com/Deor): https://mirror.xyz/deor.eth \n
-Emperor (https://twitter.com/0x_emperor): https://mirror.xyz/0xemperor.eth \n
-xedra (https://twitter.com/xedraism): https://mirror.xyz/xedra.eth \n
-Spencer (https://twitter.com/spengrah): https://mirror.xyz/hq.spengrah.eth \n
-Sleepy (https://twitter.com/morphean_sec): https://0xsleepy.medium.com/ \n
-Matt (https://twitter.com/m_t_prewitt): https://www.radicalxchange.org/media/blog/ \n
+Alkis (https://twitter.com/alcibiadesvazak): https://substack.com/profile/8172353-alkis-vazacopoulos
+
+knower (https://twitter.com/knowerofmarkets): https://theknower.substack.com/
+
+0xcarnation (https://twitter.com/0xcarnation): https://mirror.xyz/0xcarnation.eth
+
+Kitsune (https://twitter.com/0x_kitsune): https://mirror.xyz/0x4E6bB781e60788772003883414b93b62E9007570
+
+Eto (https://twitter.com/etoeth): https://medium.com/@0xEto
+
+King (https://twitter.com/0xgodking): https://medium.com/@0xgodking
+
+0xJustice (https://twitter.com/singularityhack): https://mirror.xyz/0xjustice.eth
+
+0xkydo (https://twitter.com/0xkydo): https://kydo.substack.com/
+
+0xKatsuragi (https://twitter.com/0xKatsuragi): https://mirror.xyz/unitzero.eth
+
+Deor (https://twitter.com/Deor): https://mirror.xyz/deor.eth
+
+Emperor (https://twitter.com/0x_emperor): https://mirror.xyz/0xemperor.eth
+
+xedra (https://twitter.com/xedraism): https://mirror.xyz/xedra.eth
+
+Spencer (https://twitter.com/spengrah): https://mirror.xyz/hq.spengrah.eth
+
+Sleepy (https://twitter.com/morphean_sec): https://0xsleepy.medium.com/
+
+RadicalxChange (https://twitter.com/RadxChange): https://www.radicalxchange.org/media/
 
