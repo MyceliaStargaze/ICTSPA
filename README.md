@@ -55,3 +55,6 @@ Sleepy (https://twitter.com/morphean_sec): https://0xsleepy.medium.com/
 
 RadicalxChange (https://twitter.com/RadxChange): https://www.radicalxchange.org/media/
 
+suzuha (https://twitter.com/dystopiabreaker): https://mirror.xyz/suzuha.eth
+
+Crypto, Culture & Society (https://twitter.com/CryptoSocietyS1): https://society.mirror.xyz/
