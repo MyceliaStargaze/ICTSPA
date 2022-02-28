@@ -66,3 +66,5 @@ Adam (https://twitter.com/adamscochran): https://medium.com/@adamscochran / http
 pseudoetheos (https://twitter.com/pseudotheos): https://pseudotheos.mirror.xyz/
 
 Voids (https://twitter.com/Voidsowo): https://mirror.xyz/voidsowo.eth/
+
+jacob(https://twitter.com/js_horne): https://jacob.energy/index.html
