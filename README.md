@@ -21,7 +21,7 @@ anon753 (https://twitter.com/anon75374998): https://anon753.substack.com/
 
 RainandCoffee (https://twitter.com/0xRainandCoffee): https://substack.com/profile/14239335-rainandcoffee
 
-Mycelia (https://twitter.com/myceliastargaze): https://mirror.xyz/ibansadowski.eth
+Mycelia (https://twitter.com/myceliastargaze): https://mirror.xyz/myceliastargaze.eth
 
 Derked (https://twitter.com/derked_eth): https://mirror.xyz/derked.eth
 
