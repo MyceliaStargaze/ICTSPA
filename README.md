@@ -62,3 +62,5 @@ Crypto, Culture & Society (https://twitter.com/CryptoSocietyS1): https://society
 totlsota (https://twitter.com/totlsota): https://mirror.xyz/totlsota.eth
 
 Adam (https://twitter.com/adamscochran): https://medium.com/@adamscochran / https://adamcochran.substack.com/
+
+pseudoetheos (https://twitter.com/pseudotheos): https://pseudotheos.mirror.xyz/
