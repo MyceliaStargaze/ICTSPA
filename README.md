@@ -64,3 +64,5 @@ totlsota (https://twitter.com/totlsota): https://mirror.xyz/totlsota.eth
 Adam (https://twitter.com/adamscochran): https://medium.com/@adamscochran / https://adamcochran.substack.com/
 
 pseudoetheos (https://twitter.com/pseudotheos): https://pseudotheos.mirror.xyz/
+
+Voids (https://twitter.com/Voidsowo): https://mirror.xyz/voidsowo.eth/
