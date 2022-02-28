@@ -31,7 +31,7 @@ knower (https://twitter.com/knowerofmarkets): https://theknower.substack.com/
 
 0xcarnation (https://twitter.com/0xcarnation): https://mirror.xyz/0xcarnation.eth
 
-Kitsune (https://twitter.com/0x_kitsune): https://mirror.xyz/0x4E6bB781e60788772003883414b93b62E9007570
+Kitsune (https://twitter.com/0x_kitsune): https://mirror.xyz/kitsunesama.eth/
 
 Eto (https://twitter.com/etoeth): https://medium.com/@0xEto
 
