@@ -1,5 +1,5 @@
 # ICTSPA
-Collection of Writings by the Independent CryptoTwitter ShitPosting Association
+Collection of Writings by the Independent CryptoTwitter ShitPosting Association –– Unique Account: https://twitter.com/ICTSPAg
 
 Zefram (https://twitter.com/boredGenius): https://zefram.xyz/posts/
 
@@ -72,3 +72,7 @@ jacob (https://twitter.com/js_horne): https://jacob.energy/index.html
 polynya (https://twitter.com/epolynya): https://polynya.medium.com/
 
 dcbuilder (https://twitter.com/DCbuild3r): https://dcbuilder.mirror.xyz/
+
+jasperthefriendlyghost (https://twitter.com/Jasper_ETH): https://mirror.xyz/0x04BEE613690e98A1959F236c38AbAa5f2439B14a
+
+Akimbo (https://twitter.com/0xAkimbo): https://0xakimbo.substack.com/
