@@ -80,6 +80,6 @@ jasperthefriendlyghost (https://twitter.com/Jasper_ETH): https://mirror.xyz/0x04
 
 Akimbo (https://twitter.com/0xAkimbo): https://0xakimbo.substack.com/
 
-pet3rpan (https://twitter.com/pet3rpan_): https://www.pet3rpan.net/blog <- need to include the undscore "_" after this one for the tw acc. rugged by github
+pet3rpan (https://twitter.com/pet3rpan_): https://www.pet3rpan.net/blog <- need to include the underscore "_" after this one for the tw acc. rugged by github
 
 Nichanan Kesonpat (https://twitter.com/nichanank): https://medium.com/@nichanank
