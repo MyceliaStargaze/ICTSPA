@@ -1,7 +1,7 @@
 # ICTSPA
 
-**Unique Accounts: twitter (https://twitter.com/ICTSPAg) + notion (https://ictspa.notion.site/)
-**
+**Unique Accounts: twitter (https://twitter.com/ICTSPAg) + notion (https://ictspa.notion.site/)**
+
 Collection of Writings by the Independent CryptoTwitter ShitPosting Association
 
 Zefram (https://twitter.com/boredGenius): https://zefram.xyz/posts/
